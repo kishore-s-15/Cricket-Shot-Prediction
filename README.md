@@ -78,10 +78,6 @@ https://github.com/RITIK-12/CricketShotClassification/assets/54806252/cd640022-e
 
 ### ✯ Analyzing and Assessing Cricket Shot Similarities
 
-<p align="center">
-<img width="256" alt="Cricket Shot Similarities" src="https://github.com/RITIK-12/CricketShotClassification/assets/54806252/befe21af-efc1-4b54-bfcf-3495c7800e2c">
-</p>
-
 * Extracted features from the convolutional block of the EfficientNet backbone, mapping them into a concise vector representation.
 * Calculated cosine distance between feature vectors to assess similarities across different video inputs.
 * Utilized this distance metric to determine the degree of similarity between two cricket shot videos.
